@@ -41,8 +41,8 @@
 ### ▶️ Passos para executar:
 
 ```bash
-git clone https://github.com/seu-usuario/challenge-api.git
-cd challenge-api
+git clone https://github.com/luizkamada1/Challenge-DotNet.git
+cd Challenge-DotNet
 ```
 
 1. Configure a connection string no `appsettings.json`:
