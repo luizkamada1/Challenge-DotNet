@@ -1,8 +1,14 @@
-Claro, Luiz! Aqui está o conteúdo do `README.md` em **formato de cartão (card-style layout)** usando rich text para deixar a apresentação mais clara, visual e organizada — ideal para GitHub ou entrega de projeto:
+# 📘 Projeto Challenge — Mapeamento Inteligente de Pátios da Mottu
 
 ---
 
-# 📘 Projeto Challenge — Mapeamento Inteligente de Pátios da Mottu
+## 👨‍💻 **Integrantes**
+
+| Nome                  | RM       |
+| --------------------  | -------- |
+| Luiz Sadao Kamada     | RM556762 |
+| Eduardo Guilherme Dia | RM557886 |
+| Gabriel Alves Thomaz  | RM558637 |
 
 ---
 
@@ -117,34 +123,9 @@ dotnet run
 
 ---
 
-## ✅ **Funcionalidades Atendidas**
-
-| Requisito                                         | Status |
-| ------------------------------------------------- | ------ |
-| CRUD completo com 5 entidades                     | ✅      |
-| Filtros GET com PathParams e QueryParams          | ✅      |
-| Retornos HTTP adequados (200, 201, 204, 400, 404) | ✅      |
-| Integração EF Core + Oracle                       | ✅      |
-| Swagger (OpenAPI) implementado                    | ✅      |
-| Projeto testado, validado e funcional             | ✅      |
-
----
-
-## 👨‍💻 **Integrantes**
-
-| Nome                 | RM       |
-| -------------------- | -------- |
-| Luiz Kamada          | RM123456 |
-| Nome do Integrante 2 | RMXXXXXX |
-| Nome do Integrante 3 | RMXXXXXX |
-
----
-
 ## 📄 **Licença**
 
 Projeto acadêmico da FIAP para o Challenge 2025.
 Todos os direitos reservados ao grupo desenvolvedor.
 
 ---
-
-Se quiser, posso gerar esse conteúdo em um arquivo `.md` formatado e pronto para commit no GitHub. Deseja que eu faça isso?
