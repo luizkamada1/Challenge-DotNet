@@ -42,14 +42,17 @@
 
 ```bash
 git clone https://github.com/luizkamada1/Challenge-DotNet.git
+
 cd Challenge-DotNet
+
+cd Challenge
 ```
 
 1. Configure a connection string no `appsettings.json`:
 
 ```json
 "ConnectionStrings": {
-  "OracleDB": "Data Source=localhost:1521/XEPDB1;User Id=admin;Password=admin"
+    "OracleDB": "User Id=???;Password=???;Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle.fiap.com.br)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)))"
 }
 ```
 
