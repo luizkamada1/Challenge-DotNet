@@ -21,7 +21,7 @@
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-* ⚙️ ASP.NET Core 7.0
+* ⚙️ ASP.NET Core 8.0
 * 🗃️ Entity Framework Core (EF Core)
 * 🧬 Oracle Database
 * 📑 Swagger / OpenAPI
