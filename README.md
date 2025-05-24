@@ -84,8 +84,8 @@ dotnet run
 * `POST /api/motos` → Cadastra uma nova moto
 * `PUT /api/motos/{id}` → Atualiza uma moto existente
 * `DELETE /api/motos/{id}` → Remove uma moto
-![Moto](imagens/Motos1.png)
-![Moto](Imagens/Motos2.png)
+![Moto1](imagens/Motos1.png)
+![Moto2](imagens/Motos2.png)
 
 ---
 
@@ -96,7 +96,7 @@ dotnet run
 * `POST /api/patios` → Cadastra um novo pátio
 * `PUT /api/patios/{id}` → Atualiza um pátio
 * `DELETE /api/patios/{id}` → Remove um pátio
-![Patio](Imagens/Patio.png)
+![Patio](imagens/Patio.png)
 
 ---
 
@@ -107,7 +107,7 @@ dotnet run
 * `POST /api/zonas` → Cadastra nova zona
 * `PUT /api/zonas/{id}` → Atualiza uma zona
 * `DELETE /api/zonas/{id}` → Remove uma zona
-![Zona](Imagens/Zona.png)
+![Zona](imagens/Zona.png)
 
 ---
 
@@ -118,7 +118,7 @@ dotnet run
 * `POST /api/sensores` → Cadastra um novo sensor
 * `PUT /api/sensores/{id}` → Atualiza um sensor
 * `DELETE /api/sensores/{id}` → Remove um sensor
-![Sensor](Imagens/Sensores.png)
+![Sensor](imagens/Sensores.png)
 
 ---
 
@@ -128,8 +128,8 @@ dotnet run
 * `GET /api/historico/{id}` → Retorna um histórico específico
 * `GET /api/historico/moto/{motoId}` → Lista históricos por moto
 * `POST /api/historico` → Cria novo registro de movimentação
-![Histórico](Imagens/Historico1.png)
-![Histórico](Imagens/Historico2.png)
+![Histórico](imagens/Historico1.png)
+![Histórico](imagens/Historico2.png)
 
 ---
 
