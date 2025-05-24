@@ -1,0 +1,4 @@
+@Challenge_HostAddress = http://localhost:5201
+
+GET {{Challenge_HostAddress}}/swagger
+Accept: application/json
